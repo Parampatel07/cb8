@@ -9,6 +9,5 @@ void main()
     {
         printf("this number is 10\n");
     }
-    
     printf("Goodbye..");
 }

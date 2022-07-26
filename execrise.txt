@@ -1,0 +1,12 @@
+1) write a program to findout smallest triangle from given two triangles base and height
+
+
+2) write a program to findout whether given person is eligible for voting in india or not from user's given age. 
+
+3) write a program to accept height from user as float value(foot.inch). display message "you are short" if height is less then 5 foot 
+
+4) write a program to accept month number from user. display message "this month has 28 or 29 days" if month if february
+
+5) write a program to accept one letter from user. if letter is A then print message "it is first letter of abcd".
+
+6) write a program to findout whether given number is odd or even
