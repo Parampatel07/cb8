@@ -1,6 +1,5 @@
 1) write a program to findout smallest triangle from given two triangles base and height
 
-
 2) write a program to findout whether given person is eligible for voting in india or not from user's given age. 
 
 3) write a program to accept height from user as float value(foot.inch). display message "you are short" if height is less then 5 foot 
