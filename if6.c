@@ -42,8 +42,6 @@ void main()
     if (area2>area1 && area2>area)
     {
         printf("\n 3 is greater");
-        
     }
-    
     printf("Goodbyee..");   
 }
