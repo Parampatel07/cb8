@@ -19,10 +19,14 @@ units           price  per unit
 >300 & <400     4
 >400            5
 
-
 13) write a programe to print number in words only 2 digit number
 10-> one zero
 56-> five six
 
 12) Write a program to display zodiac symbol & given zodiac sign from given birth day and month as per following criteria.
 https://in.pinterest.com/pin/81698180718875314/
+
+
+write a program to findout largest triangle from 3 triangle using base and height given by user 
+
+write a program to findout whether given year is leap year or not 
