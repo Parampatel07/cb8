@@ -3,10 +3,8 @@
 void main()
 {
     int month;
-
     printf("Enter your month number");
     scanf("%d", &month);
-
     if (month == 1)
     {
         printf("jan");

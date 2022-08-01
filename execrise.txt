@@ -30,3 +30,16 @@ https://in.pinterest.com/pin/81698180718875314/
 write a program to findout largest triangle from 3 triangle using base and height given by user 
 
 write a program to findout whether given year is leap year or not 
+
+write a program to findout distance between 2 planets
+
+write a prorame to make calculator
+given option as below
+->addition
+->subtraction
+->multiplication
+->division
+->modulas
+->minimum
+->maximum
+->equality
