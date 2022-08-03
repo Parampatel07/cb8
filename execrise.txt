@@ -43,3 +43,10 @@ given option as below
 ->minimum
 ->maximum
 ->equality
+
+switch 
+--------------------------------------------
+write a program to peform following
+//number = 54 output five four 
+//number = 99 output nine nine 
+
