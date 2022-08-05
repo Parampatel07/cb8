@@ -58,3 +58,14 @@ write a program to peform following
     Overweight	     25 - 30
     Obese Class I	 30 - 35
     Obese Class II	 35 - 40 */
+
+loop
+while loop
+---------------------------------------------
+write a prorame to print odd number using % modulas 1 to 1500
+
+write a programe to print to print following pattern
+1 8 27 64 .... 10000
+
+write a programe to print lucas series
+2, 1, 3, 4, 7, 11, 18, 29, 47, 76, 123 .... 700
