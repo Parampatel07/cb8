@@ -79,3 +79,21 @@ write a program to to find distance between 2 planets
 second from these 
 
 4] write a program to accept 3 months number from user (must be between 1 to 12) and findout display which month has least days using nested decision making.
+
+following pattern
+1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176 ... 300
+1  4  7  10  13  16 19  21  24  27  
+3 3  3   3   3    3  3  3   3  3      
+
+following pattern
+1, 6, 15, 28, 45, 66, 91, 120, 153, 190, 231 .. 1000
+1  5  9   13   17  21  25  29
+ 4   4    4    4   4   4   4  
+
+
+1 0 1 0 1
+1 0 1 0
+1 0 1
+1 0
+1
+
