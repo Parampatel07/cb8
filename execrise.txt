@@ -102,3 +102,13 @@ Write a C program to count number of digits in a number.(keval)
 Write a C program to find first and last digit of a number.(krunal)
 
 Write a C program to enter a number and print its reverse.(ansul)
+
+
+
+array
+-----------------------------------------
+1]Write a programe to take input and display output using array
+
+2]Write a programe to take 5 cricketer runs find total run and average and also find highest run scorer
+
+3]write a program to take 5 bowlers wickets find total wickets also arrange the order of bolwer accroding to wickets
