@@ -113,3 +113,6 @@ array
 3]write a program to take 5 bowlers wickets find total wickets also arrange the order of bolwer accroding to wickets
 
 4]Write a program to take name as an input and print it in reverse
+
+
+5]write a program to take 5 bowlers wickets for 5 match find total wickets also arrange the order of bolwer accroding to wickets

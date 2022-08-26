@@ -23,5 +23,4 @@ void main()
     printf("\n");
     for(count=4;count>=0;count--)
         printf("%c",name[count]);
-    
 }
