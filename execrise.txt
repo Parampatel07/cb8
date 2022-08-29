@@ -116,3 +116,14 @@ array
 
 
 5]write a program to take 5 bowlers wickets for 5 match find total wickets also arrange the order of bolwer accroding to wickets
+
+
+function
+----------------------------------------
+1] write a program to peform swap usign function
+
+2] write a program to find wheter the given number is odd or even
+
+3] write a program to find wheter the given year is milliumen or not 
+
+4]write a programe to print hollo full pyramid using function
