@@ -19,6 +19,5 @@ void main()
     fflush(stdin);
     printf("Enter first letter of your country ");
     scanf("%c",&t1.country);
-
     printf("the hour are %d, mintues area %f, first letter is %c",t1.hour,t1.minutes,t1.country);
 }
