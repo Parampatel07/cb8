@@ -11,7 +11,6 @@ void main()
 {
     struct students s1;
     int count = 0,temp;
-    
     while (count < 3)
     {
         printf("\nEnter the value of student %d",count+1);
